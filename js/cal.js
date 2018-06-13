@@ -3,5 +3,13 @@
 	console.log("JS file loaded");
 
 
-	
+		//VARS
+
+		//
+
+		//
+
+
+
+
 })();
